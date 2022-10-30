@@ -1,0 +1,13 @@
+.bg{
+    background-image: url("./img/img-portada.jpg");
+    background-position: center center; 
+    background-size:cover;
+}
+
+body{
+    background: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;    
+}
